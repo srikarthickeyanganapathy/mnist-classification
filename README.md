@@ -116,9 +116,9 @@ print(x_single_prediction1)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![download](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/bf48f174-2b76-4c68-a7a1-a0bc5c8f15f7)
+![image](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/4d0b8316-5605-4160-bf9e-823be3dfab5f)
 
-![download](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/11f63e8a-d9c7-4cbe-9828-867ac09c4974)
+![image](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/77943018-9439-414f-a845-5c4459b83a44)
 
 ### Classification Report
 ![image](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/d448489f-ccff-445f-aa94-315168f02867)
@@ -127,7 +127,11 @@ print(x_single_prediction1)
 ![image](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/9ab0481e-398f-4d89-a975-15f4934187a2)
 
 ### New Sample Data Prediction
+#### INPUT:
+![6](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/b14cad9e-31e7-4d30-8167-f8f20b9dce49)
 
+#### OUTPUT:
+![image](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/816dc2c7-3c14-4232-85c3-59e492698002)
 
 ## RESULT
-Include your result here.
+Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
