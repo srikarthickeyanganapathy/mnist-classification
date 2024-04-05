@@ -7,8 +7,7 @@ To Develop a convolutional deep neural network for digit classification and to v
 ## Problem Statement and Dataset
 
 ## Neural Network Model
-
-Include the neural network model diagram.
+![313264369-eef099d4-ccf0-4148-8d61-3cbe8c06ac37](https://github.com/srikarthickeyanganapathy/mnist-classification/assets/119393842/86d57e31-42ab-470d-8dc2-ca86635cb11b)
 
 ## DESIGN STEPS
 
